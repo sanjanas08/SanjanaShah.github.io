@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Postdoc at <a href='https://www.cmu.edu' target='blank'>Carnegie Mellon University</a>, PA, USA.
 
