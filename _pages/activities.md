@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /activities/
-title: Activities
+title: activities
 description: A nonexhaustive overview of my professional activities.
 nav: true
 nav_order: 3
