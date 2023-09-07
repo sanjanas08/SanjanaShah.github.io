@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Layout Design of Complex System
-description: How optimize the packing and the routing simultaneously? 
+description: How to optimize the packing and the routing simultaneously? 
 importance: 1
 category: work
 ---
