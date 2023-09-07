@@ -11,10 +11,11 @@
   contents:
     - title: PhD in Mechanical Engineering
       institution: University of Connecticut, Connecticut, USA
-      year: 2023
     - title: MS in Computer Science 
       institution: University of Connecticut, Connecticut, USA
-      year: 2021
+    - title: BS in Aircraft Design and Engineering
+      institution: Beihang University, Beijing, China
+
 
 
 - title: Experience
@@ -35,6 +36,10 @@
       items:
         - Layout optimization of interconnected system
         - Topology optimization of routings
+    - title: Computational Geometry
+      items:
+        - Comformal mapping for shape transformation
+        - CAD model classification and retrieval
 
 - title: Other Interests
   type: list

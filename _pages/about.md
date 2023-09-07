@@ -19,6 +19,10 @@ I am a postdoc at Manufacturing Futures Institute, Carnegie Mellon University. M
 
 Research interests
 ------
-My principal research aim revolves around augmenting the designability and replicability of metal additive manufacturing (AM) methodologies. I aim to establish comprehensive links between the manufacturing process, material structure, and resulting properties in metal AM. These connections will be employed to engineer components that challenge the boundaries of AM capabilities and to optimize the AM process for achieving outcomes that closely align with the original design intent.
+My research interests primarily focus on enhancing design and manufacturing processes through computational approaches.
+
+My major research aim revolves around augmenting the designability and replicability of metal additive manufacturing (AM) methodologies. I aim to establish comprehensive links between the manufacturing process, material structure, and resulting properties in metal AM. These connections will be employed to engineer components that challenge the boundaries of AM capabilities and to optimize the AM process for achieving outcomes that closely align with the original design intent. 
+
+Additionally, I am enthusiastic about developing optimization techniques for complex system design and cellular structure design."
 
 
