@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: 
-years: [2023, 2022, 2020,2016]
+years: [2024, 2023, 2022, 2020,2016]
 nav: true
 nav_order: 1
 scholar:
@@ -11,7 +11,7 @@ scholar:
   first_name: [Jiangce]
 ---
 
-See also my <a href="https://scholar.google.com/citations?user=0ZMklOIAAAAJ&hl=en&oi=ao">Google scholar</a> 
+See also my <a href="https://scholar.google.com/citations?hl=en&user=UEjqOxIAAAAJ">Google scholar</a> 
 
 <!-- _pages/publications.md -->
 <div class="publications">
