@@ -14,7 +14,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a research engineer at New York University. My advisors are [Nikhil Gupta](https://engineering.nyu.edu/faculty/nikhil-gupta) and [Ramesh Karri] (https://engineering.nyu.edu/faculty/ramesh-karri).
+I am a research engineer at New York University. My advisors are [Nikhil Gupta](https://engineering.nyu.edu/faculty/nikhil-gupta) and [Ramesh Karri](https://engineering.nyu.edu/faculty/ramesh-karri).
 
 I obtained my PhD degree from University of Connecticut. My PhD advisor is [Horea T. Ilies](https://me.engr.uconn.edu/blog/faculty/ilies-horea-t/). I was a postdoc at Carnegie Mellon University (Jan. 2023-Jan. 2025), advised by [Christopher McComb](https://engineering.cmu.edu/directory/bios/mccomb-christopher.html) and [Sneha Prabha Narra](https://www.meche.engineering.cmu.edu/directory/bios/narra-sneha.html). 
 
