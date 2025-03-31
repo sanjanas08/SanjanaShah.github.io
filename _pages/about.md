@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc at <a href='https://www.cmu.edu' target='blank'>Carnegie Mellon University</a>, PA, USA.
+subtitle: Research Engineer at <a href='https://www.nyu.edu' target='blank'>New York University</a>, NY, USA.
 
 profile:
   align: right
