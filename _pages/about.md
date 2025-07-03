@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Engineer at <a href='https://www.nyu.edu' target='blank'>New York University</a>, NY, USA.
+subtitle: Student at <a href='https://www.nyu.edu' target='blank'>University of Illinois Urbana Champign</a>, NY, USA.
 
 profile:
   align: right
