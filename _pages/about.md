@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Student at <a href='https://www.nyu.edu' target='blank'>University of Illinois Urbana Champign</a>, NY, USA.
+subtitle: Student at <a href='https://www.illinois.edu' target='blank'>University of Illinois Urbana Champign</a>, NY, USA.
 
 profile:
   align: right
